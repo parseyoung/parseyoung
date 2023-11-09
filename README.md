@@ -19,12 +19,12 @@ Here are some ideas to get you started:
     <img src="https://capsule-render.vercel.app/api?type=waving&color=f9aecc&height=120&text=hi%20there!%20I'm%20seyoung!&animation=&fontColor=e864b1&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> AI Developer </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> AI기술이 세상에 이롭게 쓰였으면 하는 개발자</li></br></li>사람들이 필요로 하는 것이 무엇인지 고민하는 개발자</li></br></li>항상 꿈을 꾸고 꿈을 이루는 개발자</li></br>꼼꼼하게 빈틈을 채워나가는 개발자 </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> AI Developer  </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> AI기술이 세상에 이롭게 쓰였으면 하는 개발자</br></li></li>사람들이 필요로 하는 것이 무엇인지 고민하는 개발자</br></li></li>항상 꿈을 꾸고 꿈을 이루는 개발자</br></li></li>꼼꼼하게 빈틈을 채워나가는 개발자</br> </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div  align= "center"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
@@ -38,14 +38,14 @@ Here are some ideas to get you started:
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://www.notion.so/19da231b87a84536bb38319cc14b7132> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/19da231b87a84536bb38319cc14b7132"> </a>
+    <div style="text-align: left;"> <a href=https://www.notion.so/19da231b87a84536bb38319cc14b7132> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/19da231b87a84536bb38319cc14b7132"> </a>
          <a href=mailto:tpdud991209@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:tpdud991209@gmail.com"> </a>
          <a href=https://blog.naver.com/se991209> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=https://blog.naver.com/se991209"> </a>
           </div>  <br> 
-    <div align= "center">  </div> 
+    <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=parseyoung&bg_color=180,fde2ed,00000000&title_color=000000&text_color=000000"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=parseyoung&bg_color=180,fde2ed,00000000&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parseyoung&layout=compact&bg_color=180,fde2ed,00000000&title_color=000000&text_color=000000"
            /> </div> 
     </div>
