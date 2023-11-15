@@ -39,7 +39,6 @@ Here are some ideas to get you started:
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
          <a href=mailto:tpdud991209@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:tpdud991209@gmail.com"> </a>
-         <a href=https://blog.naver.com/se991209> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=https://blog.naver.com/se991209"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
