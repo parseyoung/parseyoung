@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> AI Developer  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> • AI기술이 세상에 이롭게 쓰였으면 하는 개발자</br></li></li> • 사람들이 필요로 하는 것이 무엇인지 고민하는 개발자</br></li></li> • 항상 꿈을 꾸고 꿈을 이루는 개발자</br></li></li> • 꼼꼼하게 빈틈을 채워나가는 개발자</br> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> • </br></li></li> • </br></li></li> • </br></li></li> • </br> </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
